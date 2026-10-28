@@ -25,6 +25,10 @@ public class StudentProfile {
         System.out.println("Student ID: S85475");
         System.out.println("Programme: Bachelor of Computer Science (Software Engineering) with Honour");
         
+        // Addition of output to learn the usage of Git
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
+        
     } // end of main method
     
 } // end of StudentProfile class
